@@ -1,6 +1,6 @@
 console.log('hello world');
  const user = {
-            firstName: 'moshe',
+            firstName: 'yoram',
             lastName: 'Pretz',
             age: 45,
             fullName: function () {
